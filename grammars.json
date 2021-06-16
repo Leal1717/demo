@@ -33,7 +33,9 @@
             "These/Those": ["these", "those"],
             "Able": ["able", "unable"],
             "As a": ["as a"],
-            "Wanna": ["wanna"]
+            "Wanna": ["wanna"],
+            "Gonna": ["gonna"],
+            "Weather": ["weather"]
       },
  
       "explanations": {
@@ -69,6 +71,8 @@
             "These/Those": ["Lembre destes plurais: \n\n This = > These (estes, estas) \n That => Those (Aqueles, Aquelas)"],
             "Able": ["ABLE é usado para dizer que alguém CONSEGUE fazer alguma coisa. \n\n Por exemplo: \nI was able to finish =\n Eu consegui terminar"],
             "As a": ["As a = Como um \n\n Por exemplo: \n I work here as a teacher = 'eu trabalho aqui COMO UM professor'"],
-            "Wanna": ["Wanna = Want to \n\n Por exemplo: \n I wanna have a coke = 'I want to have a coke'"]
+            "Wanna": ["Wanna = Want to \n\n Por exemplo: \n I wanna have a coke = 'I want to have a coke'"],
+            "Gonna": ["Gonna = Going to \n\n Por exemplo: \n I'm gonna have a coke = 'I'm going to have a coke'"],
+            "Weather": ["Weather = Tempo/Clima \n\n Por exemplo: \n The weather is not very nice today = 'O tempo não está muito legal hoje'"]
      } 
 }
