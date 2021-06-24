@@ -35,7 +35,13 @@
             "As a": ["as a"],
             "Wanna": ["wanna"],
             "Gonna": ["gonna"],
-            "Weather": ["weather"]
+            "Weather": ["weather"],
+            "However": ["However"],
+            "Meanwhile": ["Meanwhile"],
+            "Somehow": ["Somehow"],
+            "Messy": ["Messy"],
+            "Abroad": ["Abroad"],
+            "Wild": ["Wild"]
       },
  
       "explanations": {
@@ -73,6 +79,13 @@
             "As a": ["As a = Como um \n\n Por exemplo: \n I work here as a teacher = 'eu trabalho aqui COMO UM professor'"],
             "Wanna": ["Wanna = Want to \n\n Por exemplo: \n I wanna have a coke = 'I want to have a coke'"],
             "Gonna": ["Gonna = Going to \n\n Por exemplo: \n I'm gonna have a coke = 'I'm going to have a coke'"],
-            "Weather": ["Weather = Tempo/Clima \n\n Por exemplo: \n The weather is not very nice today = 'O tempo não está muito legal hoje'"]
+            "Weather": ["Weather = Tempo/Clima \n\n Por exemplo: \n The weather is not very nice today = 'O tempo não está muito legal hoje'"],
+            "However": ["However = No entanto; Contudo; Mas \n\n Por exemplo: \n It is raining now. However, I will go to the park. \n 'Está chovendo agora. No entanto, eu irei ao parque.'"],
+            "Meanwhile": ["Meanwhile = Enquanto isso \n\n Por exemplo: \n All he did was complain; meanwhile, I found a solution. \n 'Tudo o que ele fez foi reclamar. Enquanto isso, eu encontrei uma solução.'"],
+            "Somehow": ["Somehow = De alguma forma/maneira \n\n Por exemplo: \n I will find a solution to the problem somehow. . \n 'Encontrarei uma solução para o problema de alguma maneira.'"],
+            "Messy": ["Messy = Bagunçado; Desajeitado \n\n Por exemplo: \n I always wake up with messy hair. . \n 'Eu sempre acordo com o cabelo bagunçado.'"],
+            "Abroad": ["Abroad = No exterior/extrangeiro \n\n Por exemplo: \n The company opened two new offices abroad. . \n 'A empresa abriu dois novos escritórios no exterior.'"],
+            "Wild": ["Wild =Selvagem \n\n Por exemplo: \n Wolves and bears are wild animals. . \n 'Lobos e ursos são animais selvagens.'"]
+            
      } 
 }
