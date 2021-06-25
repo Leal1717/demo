@@ -36,12 +36,23 @@
             "Wanna": ["wanna"],
             "Gonna": ["gonna"],
             "Weather": ["weather"],
-            "However": ["However"],
-            "Meanwhile": ["Meanwhile"],
-            "Somehow": ["Somehow"],
-            "Messy": ["Messy"],
-            "Abroad": ["Abroad"],
-            "Wild": ["Wild"]
+            "However": ["however"],
+            "Meanwhile": ["meanwhile"],
+            "Somehow": ["somehow"],
+            "Messy": ["messy"],
+            "Abroad": ["abroad"],
+            "Wild": ["wild"],
+            "Fussy": ["fussy"],
+            "Proud": ["proud"],
+            "Reliable": ["reliable"],
+            "Awful": ["awful"],
+            "Lately": ["lately"],
+            "Neighborhood": ["neighborhood", "neighbourhood"],
+            "Easter": ["easter"],
+            "Parade": ["parade"],
+            "Pan": ["pan"],
+            "Afterwards": ["afterwards"],
+            "Request": ["request"]
       },
  
       "explanations": {
@@ -82,10 +93,20 @@
             "Weather": ["Weather = Tempo/Clima \n\n Por exemplo: \n The weather is not very nice today = 'O tempo não está muito legal hoje'"],
             "However": ["However = No entanto; Contudo; Mas \n\n Por exemplo: \n It is raining now. However, I will go to the park. \n 'Está chovendo agora. No entanto, eu irei ao parque.'"],
             "Meanwhile": ["Meanwhile = Enquanto isso \n\n Por exemplo: \n All he did was complain; meanwhile, I found a solution. \n 'Tudo o que ele fez foi reclamar. Enquanto isso, eu encontrei uma solução.'"],
-            "Somehow": ["Somehow = De alguma forma/maneira \n\n Por exemplo: \n I will find a solution to the problem somehow. . \n 'Encontrarei uma solução para o problema de alguma maneira.'"],
-            "Messy": ["Messy = Bagunçado; Desajeitado \n\n Por exemplo: \n I always wake up with messy hair. . \n 'Eu sempre acordo com o cabelo bagunçado.'"],
-            "Abroad": ["Abroad = No exterior/extrangeiro \n\n Por exemplo: \n The company opened two new offices abroad. . \n 'A empresa abriu dois novos escritórios no exterior.'"],
-            "Wild": ["Wild =Selvagem \n\n Por exemplo: \n Wolves and bears are wild animals. . \n 'Lobos e ursos são animais selvagens.'"]
-            
+            "Somehow": ["Somehow = De alguma forma/maneira \n\n Por exemplo: \n I will find a solution to the problem somehow. \n 'Encontrarei uma solução para o problema de alguma maneira.'"],
+            "Messy": ["Messy = Bagunçado; Desajeitado \n\n Por exemplo: \n I always wake up with messy hair. \n 'Eu sempre acordo com o cabelo bagunçado.'"],
+            "Abroad": ["Abroad = No exterior/extrangeiro \n\n Por exemplo: \n The company opened two new offices abroad. \n 'A empresa abriu dois novos escritórios no exterior.'"],
+            "Wild": ["Wild = Selvagem \n\n Por exemplo: \n Wolves and bears are wild animals. \n 'Lobos e ursos são animais selvagens.'"],
+            "Fussy": ["Fussy = Exigente/ Minucioso \n\n Por exemplo: \n I am fussy about food, so I am hard to please. \n 'Sou exigente com comida, por isso sou difícil de agradar.'"],
+            "Proud": ["proud = Orgulhoso \n\n Por exemplo: \n We are very proud of this fantastic result! \n 'Estamos muito orgulhosos desse fantástico resultado!'"],
+            "Reliable": ["Reliable = Confiável \n\n Por exemplo: \n We obtained the information from a reliable source. \n 'Nós obtivemos as informações de uma fonte confiável.'"],
+            "Awful": ["Awful = Terrível; Horrível \n\n Por exemplo: \n The cheese had an awful smell. \n 'O queijo tinha um cheiro horrível.'"],
+            "Lately": ["Lately = Ultimamente; Recentemente \n\n Por exemplo: \n Young people's interest in politics has grown lately. \n 'O interesse dos jovens pela política tem crescido ultimamente.'"],
+            "Neighborhood": ["Neighborhood = Bairro; Vizinhança \n\n Por exemplo: \n I am looking for a new house in the same neighborhood. \n 'Estou procurando uma casa nova no mesmo bairro.'"],
+            "Easter": ["Easter = Páscoa \n\n Por exemplo: \n Easter eggs. \n 'Ovos de páscoa.'"],
+            "Parade": ["Parade = Desfile; Parada \n\n Por exemplo: \n The samba schools work all year to get ready for the carnival parade \n 'As escolas de samba trabalham o ano todo para se preparar para o desfile de carnaval.'"],
+            "Pan": ["Pan = Panela \n\n Por exemplo: \n I poured the rice into the pan. \n 'Eu despejei o arroz na panela.'"],
+            "Afterwards": ["Afterwards = Posteriormente; depois \n\n Por exemplo: \n I had a coffee and went for a walk afterwards. \n 'Eu tomei um café e posteriormente saí para um passeio.'"],
+            "Request": ["Request = Pedir/Pedido; Solicitar/Solicitação \n\n Por exemplo: \n He requested the cancellation of his user account. \n 'Ele solicitou o cancelamento da sua conta de usuário..'"]
      } 
 }
