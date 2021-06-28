@@ -50,9 +50,27 @@
             "Neighborhood": ["neighborhood", "neighbourhood"],
             "Easter": ["easter"],
             "Parade": ["parade"],
-            "Pan": ["pan"],
+            "Pan": ["pan", "pans"],
             "Afterwards": ["afterwards"],
-            "Request": ["request"]
+            "Request": ["request", "requests"],
+            "Complaint": ["complaint", "complaints"],
+            "Behaviour": ["behaviour"],
+            "Excited": ["excited"],
+            "Secluded": ["secluded"],
+            "Strict": ["strict"],
+            "Lawn": ["lawn"],
+            "Chores": ["chores", "chore"],
+            "Theft": ["theft", "thefts"],
+            "Guilty": ["guilty"],
+            "Slang": ["slang", "slangs"],
+            "Environment": ["environment", "environments"],
+            "Threat": ["threat", "threats"],
+            "Harmful": ["harmful"],
+            "Development": ["development"],
+            "Cloth": ["cloth", "cloths"],
+            "Headline": ["headline", "headlines"],
+            "Invoice": ["invoice", "invoices"]
+            
       },
  
       "explanations": {
@@ -107,6 +125,24 @@
             "Parade": ["Parade = Desfile; Parada \n\n Por exemplo: \n The samba schools work all year to get ready for the carnival parade \n 'As escolas de samba trabalham o ano todo para se preparar para o desfile de carnaval.'"],
             "Pan": ["Pan = Panela \n\n Por exemplo: \n I poured the rice into the pan. \n 'Eu despejei o arroz na panela.'"],
             "Afterwards": ["Afterwards = Posteriormente; depois \n\n Por exemplo: \n I had a coffee and went for a walk afterwards. \n 'Eu tomei um café e posteriormente saí para um passeio.'"],
-            "Request": ["Request = Pedir/Pedido; Solicitar/Solicitação \n\n Por exemplo: \n He requested the cancellation of his user account. \n 'Ele solicitou o cancelamento da sua conta de usuário..'"]
+            "Request": ["Request = Pedir/Pedido; Solicitar/Solicitação \n\n Por exemplo: \n He requested the cancellation of his user account. \n 'Ele solicitou o cancelamento da sua conta de usuário..'"],
+            "Complaint": ["Complaint = Reclamação; Quaixa \n\n Por exemplo: \n I have never received a complaint about my service. \n 'Eu nunca recebi uma reclamação sobre o meu serviço.'"],
+            "Behaviour": ["Behaviour = Comportamento; Conduta \n\n Por exemplo: \n The teacher rewarded my good behaviour. \n 'O professor recompensou minha boa conduta.'"],
+            "Excited": ["Excited = Animado; Empolgado \n\n Por exemplo: \n I am very excited about my summer trip. \n 'Eu estou muito animado com a minha viagem de verão.'"],
+            "Secluded": ["Secluded = Isolado; Afastado \n\n Por exemplo: \n My sister lives in a secluded village in the mountains. \n 'Minha irmã vive em uma vila isolada nas montanhas.'"],
+            "Strict": ["Strict = Rigoroso; Estrito; Rpigido \n\n Por exemplo: \n My professor is very strict \n 'Meu professor é muito rigoroso'"],
+            "Lawn": ["Lawn = Grama; Gramado \n\n Por exemplo: \n The gardener mows the lawn every week. \n 'O jardineiro apara a grama toda semana.'"],
+            "Chores": ["Chores = Afazeres; Tarefas \n\n Por exemplo: \n I always help my parents with household chores. \n 'Eu sempre ajudo meus pais com as tarefas de casa.'"],
+            "Theft": ["Theft = Roubo; Furto \n\n Por exemplo: \n The number of car thefts has decreased lately. \n 'O número de furtos de carro caiu ultimamente.'"],
+            "Guilty": ["Guilty = Culpado; \n\n Por exemplo: \n The judge declared the defendant guilty. \n 'O juiz declarou o réu culpado.'"],
+            "Environment": ["Environment = Ambiente; Meio-ambiente \n\n Por exemplo: \n A good work environment boosts productivity. \n 'Um bom ambiente de trabalho estimula a produtividade.'"],
+            "Threat": ["Threat = Ameaça; Ameaçar \n\n Por exemplo: \n Deforestation represents a threat to the environment. \n 'O desmatamento representa uma ameaça ao meio ambiente.'"],
+            "Harmful": ["Harmful = Prejudicial; Nocivo \n\n Por exemplo: \n The products I buy do not contain harmful substances. \n 'Os produtos que compro não contêm substâncias prejudiciais.'"],
+            "Development": ["Development = Desenvolvimento; Formação \n\n Por exemplo: \n The new government promotes welfare and development. \n 'O novo governo promove assistência social e desenvolvimento.'"],
+            "Cloth": ["Cloth = Pano; Tecido \n\n Por exemplo: \n I dried the dishes with a cloth. \n 'Enxuguei as louças com um pano.'"],
+            "Headline": ["Headline = Manchete; Cabeçalho \n\n Por exemplo: \n I need a good headline for my news article. \n 'Preciso de uma manchete boa para a minha reportagem.'"],
+            "Invoice": ["Invoice = Fatura; Conta \n\n Por exemplo: \n When I complete a job, I send my client an invoice. \n 'Quando termino um trabalho, envio uma fatura ao cliente.'"]
+            
+            
      } 
 }
