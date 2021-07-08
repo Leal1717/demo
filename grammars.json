@@ -90,7 +90,15 @@
             "Send": ["send", "sent", "sending", "sends"],
             "Attend": ["attend", "attended", "attending", "attends"],
             "Improve": ["improve", "improved", "improving", "improves"],
-            "Pretend": ["pretend", "pretended", "pretending", "pretends"]
+            "Pretend": ["pretend", "pretended", "pretending", "pretends"],
+            "Develop": ["develop", "developed", "developing", "develops"],
+            "Deny": ["deny", "denied", "denying", "denies"],
+            "Warn": ["warn", "warned", "warning", "warns"],
+            "Advertise": ["advertise", "advertised", "advertising", "advertises"],
+            "Regret": ["regret", "regreted", "regreting", "regrets"],
+            "Know": ["know", "knew", "known", "knowing", "knows"],
+            "Enjoy": ["enjoy", "enjoyed", "enjoying", "enjoys"],
+            "Intend": ["intend", "intended", "intending", "intends"]
             
             
       },
@@ -182,10 +190,18 @@
             "Avoid": ["Avoid = Evitar \n\n Por exemplo: \n\n I read the instruction manual to avoid any risk. \n Eu li o manual de instruções para evitar qualquer risco."],
             "Avoid": ["Avoid = Evitar \n\n Por exemplo: \n\n I read the instruction manual to avoid any risk. \n Eu li o manual de instruções para evitar qualquer risco."],
             "Keep": ["Keep = Manter; Continuar; Ficar \n\n Por exemplo: \n\n I read the instruction manual to avoid any risk. \n Eu sempre mantenho minhas promessas. \n\n Some plants keep growing during winter \n Algumas plantas continuam crescendo no inverno. "],
-            "Send": ["Send = Enviar; Mandar \n\n Por exemplo: \n\n The website will send me the book \n O website me enviará o livro."],
+            "Send": ["Send = Enviar; Mandar \n\n Por exemplo: \n\n The website will send me the book. \n O website me enviará o livro."],
             "Attend": ["Attend = Participar; Assistir \n\n Por exemplo: \n\n All directors must attend the meetings. \n Todos os diretores devem participar das reuniões."],
             "Improve": ["Improve = Melhorar; Aprimorar \n\n Por exemplo: \n\n I feel that my English improved a lot. \n Eu acho que meu inglês melhorou muito."],
-            "Pretend": ["Pretend = Fingir; Fazer de conta \n\n Por exemplo: \n\n She pretended to be fine. \n Ela fingiu estar bem."]
+            "Pretend": ["Pretend = Fingir; Fazer de conta \n\n Por exemplo: \n\n She pretended to be fine. \n Ela fingiu estar bem."],
+            "Develop": ["Develop = Desenvolver; Evoluir; \n\n Por exemplo: \n\n The company develops computer games. \n A empresa desenvolve jogos de computador."],
+            "Deny": ["Deny = Recusar; Negar \n\n Por exemplo: \n\n Nobody denies the fact that generosity is a virtue. \n Ninguém nega o fato de que a generosidade é uma virtude."],
+            "Warn": ["Warn = Alertar; Advertir; \n\n Por exemplo: \n\n The road sign warns drivers of a dangerous curve. \n A placa de trânsito alerta os motoristas sobre uma curva perigosa."],
+            "Advertise": ["Advertise = Divulgar; Anunciar \n\n Por exemplo: \n\n The company advertised its product online. \n A empresa anunciou o seu produto on-line."],
+            "Regret": ["Regret = Lamento/Lamentar; Arrependimento/Arrepender-se \n\n Por exemplo: \n\n I do not regret the decisions I made. \n Eu não lamento as decisões que tomei."],
+            "Know": ["Know = Conhecer (alguém); Saber (algo) \n\n Por exemplo: \n\n I know where the keys are. \n Eu sei onde estão as chaves."],
+            "Enjoy": ["Enjoy = Desfrutar; Aproveitar; Gostar \n\n Por exemplo: \n\n We enjoyed our stay at that hotel. \n Nós desfrutamos da nossa estadia naquele hotel."],
+            "Intend": ["Intend = Pretender; Planejar \n\n Por exemplo: \n\n She intends to become president one day. \n Ela pretende se tornar presidente um dia."]
             
             
      } 
