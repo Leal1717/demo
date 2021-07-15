@@ -1,40 +1,49 @@
 {
-      "firstSubs": {
-            "fun": {
+      "firstSubs": [
+            {
+                  "name": "fun",
                   "ptbr": "Divertido",
                   "lista": ["lotrmemes", "WCGW", "Unexpected", "DiWHY", "therewasanattempt", "blackmagicfuckery", "funny", "CrappyDesign", "CatastrophicFailure", "IdiotsInCars"]
             },
-            "memes": {
+            {
+                  "name": "memes",
                   "ptbr": "Memes",
                   "lista": ["memes", "gifs", "wholesomememes", "BikiniBottomTwitter"]
             },
-            "interesting": {
+            {
+                  "name": "interesting",
                   "ptbr": "Interessante",
                   "lista":["Showerthoughts", "interestingasfuck", "NatureIsFuckingLit"]
             },
-            "science": {
+            {
+                  "name": "science",
                   "ptbr": "Ciência",
                   "lista":["HistoryMemes", "sciencememes", "todayilearned", "danksciencememes"]
             },
-            "anime": {
+            {
+                  "name": "anime",
                   "ptbr": "Animes",
                   "lista":["anime", "Naruto", "DragonballLegends", "OnePiece", "bleach", "deathnote", "FullmetalAlchemist", "OnePunchMan"]
             },
-            "pets": {
+            {
+                  "name": "pets",
                   "ptbr": "Pets",
                   "lista":["PetsareAmazing", "AnimalsBeingBros", "AnimalsBeingJerks", "AnimalsBeingDerps", "aww"]
             },
-            "games": {
+            {
+                  "name": "games",
                   "ptbr": "Jogos",
                   "lista":["gaming", "PS5", "xboxone", "pcgaming", "GamersBeingBros", "Gamingcirclejerk", "StarWarsBattlefront", "FortNiteBR", "Minecraft", "RocketLeague", "csgo", "CallOfDuty", "PokemonSwordAndShield", "Battlefield", "gtaonline"]
             },
-            "lotr": {
+            {
+                  "name": "lotr",
                   "ptbr": "Senhor dos Anéis",
                   "lista":["lotrmemes", "lotr"]
             },
-            "starwars": {
+            {
+                  "name": "starwars",
                   "ptbr": "Star Wars",
                   "lista":["StarWars", "StarWarsBattlefront", "PrequelMemes", "starwarsmemes"]
             }
-      }
+      ]
 }
