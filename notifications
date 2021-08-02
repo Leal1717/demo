@@ -2,5 +2,9 @@
 "title": "Homework",
 "notification": ["Remember to do your homework!", "Time to study!", "Let's stududy!", "English Time!"],
 "alert": false,
+"alert-title": "none",
 "alert-notification": "none"
+"alert-day": 1,
+"alert-month": 5,
+"alert-hour": 21,
 }
