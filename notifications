@@ -6,5 +6,6 @@
 "alert-notification": "none",
 "alert-day": 1,
 "alert-month": 5,
-"alert-hour": 21
+"alert-hour": 21,
+"alert-minute": 30
 }
