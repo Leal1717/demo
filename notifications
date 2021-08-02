@@ -1,4 +1,5 @@
 {
+"title": "Homework",
 "notification": ["Remember to do your homework!", "Time to study!", "Let's stududy!", "English Time!"],
 "alert": false,
 "alert-notification": "none"
