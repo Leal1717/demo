@@ -1,0 +1,19 @@
+{
+"listOfWarnings": [{
+      "title": "this is for you",
+      "specific_student": true,
+      "student": ["kauany rocha"],
+      "days_on": ["13/8/2021"],
+      "has_image": true,
+      "image": "https://image.shutterstock.com/image-illustration/warning-mark-illustration-design-260nw-1924024586.jpg",
+      "content": "This is a test of a possible warning we may want you all to receive when you open your apps. Please, make sure you read this"
+},
+{      "title": "this is important for everyone",
+      "specific_student": false,
+      "student": [],
+      "days_on": ["13/8/2021"],
+      "has_image": false,
+      "image": null,
+      "content": "This is a test of a possible warning we may want you all to receive when you open your apps. Please, make sure you read this"}
+]
+}
