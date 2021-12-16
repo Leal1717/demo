@@ -98,7 +98,10 @@
             "Regret": ["regret", "regreted", "regreting", "regrets"],
             "Know": ["know", "knew", "known", "knowing", "knows"],
             "Enjoy": ["enjoy", "enjoyed", "enjoying", "enjoys"],
-            "Intend": ["intend", "intended", "intending", "intends"]
+            "Intend": ["intend", "intended", "intending", "intends"],
+            "ASAP": ["ASAP"],
+            "Each other": ["Each other"],
+            "By heart": ["By heart"]
             
             
       },
@@ -201,7 +204,10 @@
             "Regret": ["Regret = Lamento/Lamentar; Arrependimento/Arrepender-se \n\n Por exemplo: \n\n I do not regret the decisions I made. \n Eu não lamento as decisões que tomei."],
             "Know": ["Know = Conhecer (alguém); Saber (algo) \n\n Por exemplo: \n\n I know where the keys are. \n Eu sei onde estão as chaves."],
             "Enjoy": ["Enjoy = Desfrutar; Aproveitar; Gostar \n\n Por exemplo: \n\n We enjoyed our stay at that hotel. \n Nós desfrutamos da nossa estadia naquele hotel."],
-            "Intend": ["Intend = Pretender; Planejar \n\n Por exemplo: \n\n She intends to become president one day. \n Ela pretende se tornar presidente um dia."]
+            "Intend": ["Intend = Pretender; Planejar \n\n Por exemplo: \n\n She intends to become president one day. \n Ela pretende se tornar presidente um dia."],
+            "ASAP": ["ASAP = As soon as possible \n\n Por exemplo: \n Call me ASAP \n Me ligue assim que possível."],
+            "Each other": ["Each other = Um com o outro; Um do outro \n\n Por exemplo: \n\n They don't like each other \n Eles não gostam um do outro"],
+            "By heart": ["By heart = De cor \n\n Por exemplo: \n I know that recipe by heart \n Eu sei aquela receita de cor"]
             
             
      } 
