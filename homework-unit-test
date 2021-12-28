@@ -1,29 +1,66 @@
 {
-      id: 1,
-      name: Eduardo,
-      surname: Reolon,
-      date: 2021-12-28,
-      class: 8,
-      credits: 30,
-      questions: [
-                                                      {
-                                                            id: 1,
-                                                            kind: unscramble,
-                                                            unit: 1,
-                                                            exercise: 3,
-                                                            letter: d,
-                                                            question: Unscramble the words according to the audio,
-                                                            audio: https://raw.githubusercontent.com/Leal1717/demo/main/audio/oneQuestion/1.mp3,
-                                                            image: null,
-                                                            sentences": [
-                                                                  This is just a test sentence for the unscramble homework,
-                                                                  This is the second test,
-                                                                  third one,
-                                                                  with number 3 now 45,
-                                                                  With punctuation! now! and ?? here.
-                                                            ],
-                                                            options: [],
-                                                            correct: null
-                                                      }
-                                                ]
+      "id": 1,
+            "name": "Eduardo",
+                  "surname": "Reolon",
+                        "date": "2021-12-28",
+                              "class": 8,
+                                    "credits": 30,
+                                          "questions": [
+                                                {
+                                                      "id": 1,
+                                                      "kind": "unscramble",
+                                                      "unit": 1,
+                                                      "exercise": 3,
+                                                      "letter": "d",
+                                                      "question": "Unscramble the words according to the audio",
+                                                      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/oneQuestion/1.mp3",
+                                                      "image": null,
+                                                      "sentences": [
+                                                            "This is just a test sentence for the unscramble homework",
+                                                            "This is the second test",
+                                                            "third one",
+                                                            "with number 3 now 45",
+                                                            "With punctuation! now! and ?? here."
+                                                      ],
+                                                      "options": [],
+                                                      "correct": null
+                                                },
+                                                {
+                                                      "id": 2,
+                                                      "kind": "unscramble",
+                                                      "unit": 1,
+                                                      "exercise": 3,
+                                                      "letter": "d",
+                                                      "question": "Unscramble the words",
+                                                      "audio": null,
+                                                      "image": null,
+                                                      "sentences": [
+                                                            "This is just a test sentence for the unscramble homework",
+                                                            "This is the second test",
+                                                            "third one",
+                                                            "with number 3 now 45",
+                                                            "With punctuation! now! and ?? here."
+                                                      ],
+                                                      "options": [],
+                                                      "correct": null
+                                                },
+                                                {
+                                                      "id": 3,
+                                                      "kind": "oneQuestion",
+                                                      "unit": 1,
+                                                      "exercise": 3,
+                                                      "letter": "d",
+                                                      "question": "Answer according to the audio and the image",
+                                                      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/oneQuestion/1.mp3",
+                                                      "image": "https://freedesignfile.com/upload/2019/10/Beautiful-blonde-girl-with-straight-hair-length-of-shoulder-blades-vector.jpg",
+                                                      "sentences": [],
+                                                      "options": [
+                                                            "His daughter is blonde",
+                                                            "His mother is blonde",
+                                                            "His daughter has red hair",
+                                                            "His mother has red hair"
+                                                      ],
+                                                      "correct": "His daughter is blonde"
+                                                }
+                                          ]
 }
