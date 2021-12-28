@@ -1,13 +1,13 @@
 {
       "id": 1,
-      "name": "Eduardo",
-      "surname": "Reolon",
-      "date": "14/05/2020",
-      "classNumber": 8,
-      "remaining": "2/5",
-      "credits": 30,
-      "questions": [
+            "name": "Eduardo",
+                  "surname": "Reolon",
+                        "date": "2021-12-28",
+                              "class": 8,
+                                          "credits": 30,
+                                                "questions": [
                                                       {
+                                                            "id": 1,
                                                             "kind": "unscramble",
                                                             "unit": 1,
                                                             "exercise": 3,
@@ -26,6 +26,7 @@
                                                             "correct": null
                                                       },
                                                       {
+                                                            "id": 2,
                                                             "kind": "unscramble",
                                                             "unit": 1,
                                                             "exercise": 3,
@@ -44,6 +45,7 @@
                                                             "correct": null
                                                       },
                                                       {
+                                                            "id": 3,
                                                             "kind": "oneQuestion",
                                                             "unit": 1,
                                                             "exercise": 3,
