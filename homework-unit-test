@@ -16,11 +16,8 @@
                                                       "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/oneQuestion/1.mp3",
                                                       "image": null,
                                                       "sentences": [
-                                                            "This is just a test sentence for the unscramble homework",
-                                                            "This is the second test",
-                                                            "third one",
-                                                            "with number 3 now 45",
-                                                            "With punctuation! now! and ?? here."
+                                                            "This is a test",
+                                                            "one more"
                                                       ],
                                                       "options": [],
                                                       "correct": null
@@ -35,11 +32,9 @@
                                                       "audio": null,
                                                       "image": null,
                                                       "sentences": [
-                                                            "This is just a test sentence for the unscramble homework",
                                                             "This is the second test",
                                                             "third one",
-                                                            "with number 3 now 45",
-                                                            "With punctuation! now! and ?? here."
+                                                            "1 2 3 4 5"
                                                       ],
                                                       "options": [],
                                                       "correct": null
