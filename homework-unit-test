@@ -13,11 +13,11 @@
                                                       "exercise": 3,
                                                       "letter": "d",
                                                       "question": "Unscramble the words according to the audio",
-                                                      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/oneQuestion/1.mp3",
+                                                      "audio": null,
                                                       "image": null,
                                                       "sentences": [
-                                                            "This is a test",
-                                                            "one more"
+                                                            {"sentence": "This is a test", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/an_excellent.mp3"},
+                                                            {"sentence": "one more", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/doctor.mp3"}
                                                       ],
                                                       "options": [],
                                                       "correct": null
@@ -32,9 +32,10 @@
                                                       "audio": null,
                                                       "image": null,
                                                       "sentences": [
+                                                            {"sentence": "This is the second test", "audio": null},
+                                                            {"sentence": "third one", null},
+                                                            {"sentence": "1 2 3 4 5", "audio": null}
                                                             "This is the second test",
-                                                            "third one",
-                                                            "1 2 3 4 5"
                                                       ],
                                                       "options": [],
                                                       "correct": null
