@@ -33,9 +33,8 @@
                                                       "image": null,
                                                       "sentences": [
                                                             {"sentence": "This is the second test", "audio": null},
-                                                            {"sentence": "third one", null},
+                                                            {"sentence": "third one", "audio": null},
                                                             {"sentence": "1 2 3 4 5", "audio": null}
-                                                            "This is the second test",
                                                       ],
                                                       "options": [],
                                                       "correct": null
