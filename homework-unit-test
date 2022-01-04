@@ -16,8 +16,42 @@
                                                       "audio": null,
                                                       "image": null,
                                                       "sentences": [
-                                                            {"sentence": "This is a test", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/an_excellent.mp3"},
-                                                            {"sentence": "one more", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/doctor.mp3"}
+                                                            {"question": null, "image": null, "sentence": "This is a test", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/an_excellent.mp3"},
+                                                            {"question": null, "image": null,"sentence": "one more", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/doctor.mp3"}
+                                                      ],
+                                                      "options": [],
+                                                      "correct": null
+                                                },
+                                                {
+                                                                                                
+                                                      "id": 1,
+                                                      "kind": "unscramble",
+                                                      "unit": 1,
+                                                      "exercise": 3,
+                                                      "letter": "d",
+                                                      "question": "Unscramble the words according to the audio",
+                                                      "audio": null,
+                                                      "image": null,
+                                                      "sentences": [
+                                                            {"question": "What do you see?", "image": "https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/tree.png", "sentence": "A tree", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/an_excellent.mp3"},
+                                                            {"question": "What's in the image?", "image": "https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/512x512/shadow/sports_car.png", "sentence": "It's a car", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/doctor.mp3"}
+                                                      ],
+                                                      "options": [],
+                                                      "correct": null
+                                                },
+                                                {
+                                                                                                
+                                                      "id": 1,
+                                                      "kind": "unscramble",
+                                                      "unit": 1,
+                                                      "exercise": 3,
+                                                      "letter": "d",
+                                                      "question": "Unscramble the words according to the audio",
+                                                      "audio": null,
+                                                      "image": null,
+                                                      "sentences": [
+                                                            {"question": "What is this?", "image": null, "sentence": "This is a test", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/an_excellent.mp3"},
+                                                            {"question": "What do you do when you have nothing nice to be doing?", "image": null,"sentence": "nothing nice", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/doctor.mp3"}
                                                       ],
                                                       "options": [],
                                                       "correct": null
@@ -32,9 +66,9 @@
                                                       "audio": null,
                                                       "image": null,
                                                       "sentences": [
-                                                            {"sentence": "This is the second test", "audio": null},
-                                                            {"sentence": "third one", "audio": null},
-                                                            {"sentence": "1 2 3 4 5", "audio": null}
+                                                            {"question": null, "image": null, "sentence": "This is the second test", "audio": null},
+                                                            {"question": null, "image": null, "sentence": "third one", "audio": null},
+                                                            {"question": null, "image": null, "sentence": "1 2 3 4 5", "audio": null}
                                                       ],
                                                       "options": [],
                                                       "correct": null
