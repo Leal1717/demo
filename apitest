@@ -1,0 +1,27 @@
+{
+  "name": "Joao",
+  "lastName": "da Silva",
+  "age": 20,
+  "pet": {
+      "name": "toby",
+      "age": 9,
+      "species": "dog"
+    },
+  "cars": [
+    {
+      "brand": "fiat",
+      "model": "uno",
+      "year": 1996
+    },
+    {
+      "brand": "honda",
+      "model": "civic",
+      "year": 2008
+    },
+    {
+      "brand": "honda",
+      "model": "fit",
+      "year": 2016
+    }
+  ]
+}
