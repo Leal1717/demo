@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nome": "Joao",
+    "sobrenome": "Angelo",
+    "idade": 30,
+    "casado": true,
+    "pets": [
+      {
+        "id": 1,
+        "especie": "cachorro",
+        "nome": "Marley"
+      },
+      {
+        "id": 2,
+        "especie": "cachorro",
+        "nome": "Toby"
+      },
+      {
+        "id": 3,
+        "especie": "gato",
+        "nome": "Garfield"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Maria",
+    "sobrenome": "Augusta",
+    "idade": 34,
+    "casado": true,
+    "pets": [
+      {
+        "id": 4,
+        "especie": "cachorro",
+        "nome": "Marla"
+      },
+      {
+        "id": 5,
+        "especie": "gato",
+        "nome": "Tobais"
+      },
+      {
+        "id": 6,
+        "especie": "gato",
+        "nome": "Tom"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Joana",
+    "sobrenome": "da Silva",
+    "idade": 45,
+    "casado": false,
+    "pets": [
+      {
+        "id": 7,
+        "especie": "gato",
+        "nome": "Timotio"
+      },
+      {
+        "id": 8,
+        "especie": "gato",
+        "nome": "Lazaro"
+      },
+      {
+        "id": 9,
+        "especie": "gato",
+        "nome": "Rolo"
+      }
+    ]
+  },
+    {
+    "id": 4,
+    "nome": "Pedro",
+    "sobrenome": "da Rocha",
+    "idade": 45,
+    "casado": true,
+    "pets": [
+      {
+        "id": 10,
+        "especie": "cachorro",
+        "nome": "Tim"
+      },
+      {
+        "id": 11,
+        "especie": "cachorro",
+        "nome": "Toto"
+      },
+      {
+        "id": 12,
+        "especie": "cachorro",
+        "nome": "Osvald"
+      }
+    ]
+  }
+]
