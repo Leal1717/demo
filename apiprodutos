@@ -1,0 +1,307 @@
+{
+    "empresa": "Grilled Burguer",
+    "endereco": "Rua Angelo Ramos, 123",
+    "mesa": "12",
+    "backgroundImage": "https://a.cdn-hotels.com/gdcs/production78/d659/bf01c29d-eab1-4443-93e0-142ce5c6836b.jpg",
+    "classes": [
+        {
+            "id": 1,
+            "nome": "DESTILADOS",
+            "index": 1,
+            "icone": "https://img.icons8.com/ios/2x/bar.png",
+            "itensVenda": [
+                
+                {
+                    "id": 2,
+                    "nome": "BIG APPLE",
+                    "index": 1,
+                    "preco": "23.99",
+                    "tipo": "mercadoria",
+                    "imagem": "https://casalisboa.com.br/loja-virtual/wp-content/uploads/sites/8/2020/07/Rum-Bacardi-Big-Apple-750Ml-616x1024.jpg"
+                },
+                {
+                    "id": 220,
+                    "nome": "VELHO BARREIRO",
+                    "index": 1,
+                    "preco": "9.80",
+                    "tipo": "mercadoria",
+                    "imagem": "https://img.elo7.com.br/product/original/3A4874F/kit-com-10-garrafinhas-modelo-amarula-lembrancinhas-velho-barreiro.jpg"
+                },
+                {
+                    "id": 221,
+                    "nome": "CIROC",
+                    "index": 1,
+                    "preco": "24.99",
+                    "tipo": "mercadoria",
+                    "imagem": "https://superadega.vteximg.com.br/arquivos/ids/171066-1000-1000/6619---Vodka-Ciroc-750ml.jpg?v=637787322901630000"
+                }
+            ]
+        },
+        
+        {
+            "id": 78945613,
+            "nome": "SUPER DOGS",
+            "index": 456,
+            "icone": "https://img.icons8.com/sf-ultralight-filled/512/hot-dog.png",
+            "itensVenda": [
+                {
+                    "id": 14104,
+                    "nome": "DOG BRASILEIRO",
+                    "index": 1,
+                    "preco": "12.20",
+                    "tipo": "produto",
+                    "descricao": "decricao dos ingredientes e itens, ingredientes e itens, decricao, decricao dos ingredientes e itens, decricao dos ingredientes e itens, decricao dos ingredientes e itens",
+                    "imagem": "https://blog.funstock.com.br//wp-content/uploads/2017/09/bmf80u03mi3xprkptmc4mchju.jpg",
+                    "fichatecnica": [
+                        {
+                            "id": 14044,
+                            "nome": "paozinho",
+                            "index": 1,
+                            "poderemover": false
+                        },
+                        {
+                            "id": 257215,
+                            "nome": "queijo",
+                            "index": 2,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 19786,
+                            "nome": "presunto",
+                            "index": 3,
+                            "poderemover": true
+                        }
+                    ],
+                    "variacaofichatecnica": [
+                        {
+                            "id": 132327,
+                            "nome": "+ recheio",
+                            "index": 1,
+                            "obrigatorio": false,
+                            "quantidadeMax": "5",
+                            "itens": [
+                                {
+                                    "id": 13239,
+                                    "nome": "molho barbecue",
+                                    "index": 1,
+                                    "preco": "5.00"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 17,
+                            "nome": "+ recheio",
+                            "index": 1,
+                            "obrigatorio": true,
+                            "quantidadeMax": "5",
+                            "itens": [
+                                {
+                                    "id": 18,
+                                    "nome": "mais uma slasicha",
+                                    "index": 1,
+                                    "preco": "2.50",
+                                    "image": "https://dfvdgdgdf"
+                                },
+                                {
+                                    "id": 19,
+                                    "nome": "mais tomate",
+                                    "index": 2,
+                                    "preco": "1.85"
+                                }
+                            ]
+                        }
+                    
+                    ]
+                },
+                {
+                    "id": 141414,
+                    "nome": "DOG AMERICANO",
+                    "index": 2,
+                    "preco": "24.00",
+                    "tipo": "produto",
+                    "descricao": "decricao dos ingredientes e itens, decricao dos ingredientes e itens",
+                    "imagem": "https://www.bemparana.com.br/wp-content/uploads/2022/07/noticia_544427_img1_cachorro.jpg",
+                    "fichatecnica": [
+                        {
+                            "id": 1234,
+                            "nome": "pao de dog",
+                            "index": 1,
+                            "poderemover": false
+                        },
+                        {
+                            "id": 1325,
+                            "nome": "queijo",
+                            "index": 2,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 137726,
+                            "nome": "presunto",
+                            "index": 3,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 136626,
+                            "nome": "salsicha",
+                            "index": 4,
+                            "poderemover": false
+                        },
+                        {
+                            "id": 135526,
+                            "nome": "alface",
+                            "index": 5,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 134426,
+                            "nome": "tomate",
+                            "index": 6,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 133326,
+                            "nome": "frango desfiado",
+                            "index": 7,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 132226,
+                            "nome": "bacon",
+                            "index": 8,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 131126,
+                            "nome": "calabresa",
+                            "index": 9,
+                            "poderemover": true
+                        }
+                    ],
+                    "variacaofichatecnica": [
+                        {
+                            "id": 132327,
+                            "nome": "+ recheio",
+                            "index": 1,
+                            "obrigatorio": true,
+                            "quantidadeMax": "5",
+                            "itens": [
+                                {
+                                    "id": 13239,
+                                    "nome": "molho barbecue",
+                                    "index": 1,
+                                    "preco": "5.00"
+                                }
+                            ]
+                        }
+                    
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id": 2000,
+            "nome": "BURGUERS",
+            "index": 1000,
+            "icone": "https://img.icons8.com/external-line-zulfa-mahendra/2x/external-burguer-food-delivery-line-zulfa-mahendra.png",
+            "itensVenda": [
+                {
+                    "id": 3,
+                    "nome": "MISTO QUENTE NERVOSO COM MUITO QUEIJO",
+                    "index": 2,
+                    "preco": "3.11",
+                    "tipo": "produto",
+                    "descricao": "decricao dos ingredientes e itens, ingredientes e itens, decricao, decricao dos ingredientes e itens, decricao dos ingredientes e itens, decricao dos ingredientes e itens",
+                    "imagem": "https://pantuccipanificadora.com.br/wp-content/uploads/2021/04/misto-quente-receita-1_Easy-Resize.com_.jpg",
+                    "fichatecnica": [
+                        {
+                            "id": 14,
+                            "nome": "paozinho",
+                            "index": 1,
+                            "poderemover": false
+                        },
+                        {
+                            "id": 15,
+                            "nome": "queijo",
+                            "index": 2,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 16,
+                            "nome": "presunto",
+                            "index": 3,
+                            "poderemover": true
+                        }
+                    ]
+                },
+                {
+                    "id": 323,
+                    "nome": "X TUDO",
+                    "index": 3,
+                    "preco": "12.50",
+                    "tipo": "produto",
+                    "descricao": "decricao dos ingredientes e itens, decricao dos ingredientes e itens",
+                    "imagem": "https://xtudoreceitas.com/wp-content/uploads/xtudo-480x270.png",
+                    "fichatecnica": [
+                        {
+                            "id": 1234,
+                            "nome": "pao de hamburguer",
+                            "index": 1,
+                            "poderemover": false
+                        },
+                        {
+                            "id": 1325,
+                            "nome": "queijo",
+                            "index": 2,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 137726,
+                            "nome": "presunto",
+                            "index": 3,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 136626,
+                            "nome": "hamburguer 400g",
+                            "index": 4,
+                            "poderemover": false
+                        },
+                        {
+                            "id": 135526,
+                            "nome": "alface",
+                            "index": 5,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 134426,
+                            "nome": "tomate",
+                            "index": 6,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 133326,
+                            "nome": "frango desfiado",
+                            "index": 7,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 132226,
+                            "nome": "bacon",
+                            "index": 8,
+                            "poderemover": true
+                        },
+                        {
+                            "id": 131126,
+                            "nome": "calabresa",
+                            "index": 9,
+                            "poderemover": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+
