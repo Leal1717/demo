@@ -1,8 +1,8 @@
 {
-  "nomeFantasia":"Flux Dance Club",
+  "nomeFantasia":"Queens Night Club",
   "eventoNome": "Noite do carnaval",
   "eventoDescricao": "Entrando ate meia noite paga meia!",
-  "corPrincipal": "#fde918",
-  "corSecundaria":"#fd0a96",
-  "logo": "https://d1wnwqwep8qkqc.cloudfront.net/uploads/stage/stage_image/32798/optimized_large_thumb_stage.jpg"
+  "corPrincipal": "#5ec6e1",
+  "corSecundaria":"#000000",
+  "logo": "https://images.squarespace-cdn.com/content/v1/5bca3e73b10f25927707d1a4/1540503519930-FJFY52G341YI61IUMGFO/Queens-Nightclub-Branding-Barrie-Ontario.png?format=2500w"
 }
