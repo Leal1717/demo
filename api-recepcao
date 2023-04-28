@@ -1,8 +1,8 @@
 {
-  "nomeFantasia":"Eletro Night Club",
+  "nomeFantasia":"Flux Dance Club",
   "eventoNome": "Noite do carnaval",
   "eventoDescricao": "Entrando ate meia noite paga meia!",
-  "corPrincipal": "#4155B4",
-  "corSecundaria":"#41B4B4",
-  "logo": "https://d1wnwqwep8qkqc.cloudfront.net/uploads/stage/stage_image/52688/optimized_large_thumb_stage.jpg"
+  "corPrincipal": "#fde918",
+  "corSecundaria":"#fd0a96",
+  "logo": "https://d1wnwqwep8qkqc.cloudfront.net/uploads/stage/stage_image/32798/optimized_large_thumb_stage.jpg"
 }
