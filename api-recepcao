@@ -1,8 +1,8 @@
 {
-  "nomeFantasia":"Queens Night Club",
+  "nomeFantasia":"Neon Night Club",
   "eventoNome": "Noite do carnaval",
   "eventoDescricao": "Entrando ate meia noite paga meia!",
-  "corPrincipal": "#5ec6e1",
-  "corSecundaria":"#000000",
-  "logo": "https://images.squarespace-cdn.com/content/v1/5bca3e73b10f25927707d1a4/1540503519930-FJFY52G341YI61IUMGFO/Queens-Nightclub-Branding-Barrie-Ontario.png?format=2500w"
+  "corPrincipal": "#f4abf9",
+  "corSecundaria":"#a2ecf6",
+  "logo": "https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/32575/optimized_large_thumb_stage.jpg"
 }
