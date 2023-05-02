@@ -1,8 +1,10 @@
 {
   "nomeFantasia":"Neon Night Club",
+  "slogan": "Sua noite começa aqui",
   "eventoNome": "Noite do carnaval",
   "eventoDescricao": "Entrando ate meia noite paga meia!",
   "corPrincipal": "#f4abf9",
   "corSecundaria":"#a2ecf6",
+  "design": 1,
   "logo": "https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/32575/optimized_large_thumb_stage.jpg"
 }
