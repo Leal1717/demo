@@ -1,10 +1,27 @@
 {
-  "nomeFantasia":"Drip Night Club",
-  "slogan": "Sua noite começa aqui",
-  "eventoNome": "Noite do carnaval",
-  "eventoDescricao": "Entrando ate meia noite paga meia!",
-  "corPrincipal": "#f4abf9",
-  "corSecundaria":"#a2ecf6",
-  "design": 1,
-  "logo": "https://dypdvfcjkqkg2.cloudfront.net/large/6139721-9267.png"
+    "nomeFantasia": "Drip Night Club",
+    "slogan": "Sua noite começa aqui",
+    "corPrincipal": "#f4abf9",
+    "corSecundaria": "#a2ecf6",
+    "design": 1,
+    "logo": "https://dypdvfcjk/6139721-9267.png",
+    "eventos": [
+      {
+        "id": 1,
+        "eventoNome": "Noite do carnaval",
+        "eventoDescricao": "Entrando ate meia noite paga meia!",
+        "ingressos": [
+          {
+            "id": 5,
+            "descricao": "inteira",
+            "preco": 51
+          },
+          {
+            "id": 6,
+            "descricao": "meia",
+            "preco": 25.5
+          }
+        ]
+      }
+    ]
 }
