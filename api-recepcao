@@ -4,12 +4,13 @@
     "corPrincipal": "#f4abf9",
     "corSecundaria": "#a2ecf6",
     "design": 1,
-    "logo": "https://dypdvfcjk/6139721-9267.png",
+    "logo": "https://img.freepik.com/vetores-premium/vetor-de-texto-de-estilo-de-letreiros-de-neon-de-boate_118419-3603.jpg",
     "eventos": [
       {
         "id": 1,
         "eventoNome": "Noite do carnaval",
         "eventoDescricao": "Entrando ate meia noite paga meia!",
+        "dataHora": "2023-11-08 18:00:00",
         "ingressos": [
           {
             "id": 5,
@@ -20,6 +21,24 @@
             "id": 6,
             "descricao": "meia",
             "preco": 25.5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "eventoNome": "Noite do Batman",
+        "eventoDescricao": "So para herois",
+        "dataHora": "2023-11-09 19:30:00",
+        "ingressos": [
+          {
+            "id": 8,
+            "descricao": "inteira",
+            "preco": 62.50
+          },
+          {
+            "id": 9,
+            "descricao": "meia",
+            "preco": 31.5
           }
         ]
       }
